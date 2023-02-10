@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcelo Altmann</h1>
+<h1 align="center">Hi <img src="img/wave.gif" width="30px" height="30px" />, I'm Marcelo Altmann</h1>
 <h3 align="center">C/C++ Database Developer</h3>
 
 - 🔭 I’m currently working on [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) improving the backup of MySQL / Percona Server databases;
