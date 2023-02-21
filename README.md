@@ -1,4 +1,6 @@
-<h1 align="center"><img src="img/final.gif" width="1500px" height="500px" /></h1>
+<h1 align="center">Hi <img src="img/wave.gif" width="30px" height="30px" />, I'm Marcelo Altmann</h1>
+
+![](img/final.gif)
 
 - 🔭 I’m currently working on [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) improving the backup of MySQL / Percona Server databases;
 
