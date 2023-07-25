@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
 - [Percona XtraBackup Now Supports IAM Instance Profile](https://www.percona.com/blog/percona-xtrabackup-now-supports-iam-instance-profile/)
 - [Making Your MySQL Backup Process up to 17X Faster – Introducing Percona XtraBackup Smart Memory Estimation](https://www.percona.com/blog/making-your-mysql-backup-process-faster-introducing-percona-xtrabackup-smart-memory-estimation/)
 - [How To Get Your Backup to Half of Its Size – Introducing ZSTD Support in Percona XtraBackup](https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/)
 - [Percona XtraBackup 8.0.29 and INSTANT ADD/DROP Columns](https://www.percona.com/blog/percona-xtrabackup-8-0-29-and-instant-add-drop-columns/)
-- [MySQL 8.0.29 and Percona XtraBackup Incompatibilities](https://www.percona.com/blog/mysql-8-0-29-and-percona-xtrabackup-incompatibilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
