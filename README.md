@@ -2,8 +2,9 @@
 
 ![](img/banner.gif)
 
-- 🔭 I’m C++ Senior Software Engineer passionate by databases. 
-- 👯 I'm currently working on [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) improving the backup of MySQL / Percona Server databases;
+- 🔭 I’m a C++ Senior Software Engineer with 16 years of experience. I am passionate about database internals and open source.
+- 🐬 I have vast experience with MySQL, from managing (DBA) to internals development. Some of my work has been incorporated as part of MySQL. 
+- 👯 For the last few years, I have been working on developing [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup), improving the backup of MySQL / Percona Server databases;
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
