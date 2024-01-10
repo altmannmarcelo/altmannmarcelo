@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="img/wave.gif" width="30px" height="30px" />, I'm Marcelo Altmann</h1>
 
-![](img/banner.gif)
-
 - 🔭 I’m a C++ Senior Software Engineer with 16 years of experience. I am passionate about database internals and open source.
 - 🐬 I have vast experience with MySQL, from managing (DBA) to internals development. Some of my work has been incorporated as part of MySQL. 
 - 👯 For the last few years, I have been working on developing [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup), improving the backup of MySQL / Percona Server databases;
