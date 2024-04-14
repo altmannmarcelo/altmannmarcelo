@@ -15,6 +15,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
+- Readyset - A new era for MySQL caching - MySQL Belgium Days 2024 [Slides](https://speakerdeck.com/marceloaltmann/readyset-a-new-era-for-mysql-caching) [Recording](https://www.youtube.com/watch?v=ch0utkJqJZQ)
 - [Xtrabackup From Zero to Hero - Percona Live Denver 2023](https://speakerdeck.com/marceloaltmann/xtrabackup-from-zero-to-hero)
 - [Percona Xtrabackup: What’s new, Cloud Backups and Migrations - Percona Live Denver 2023](https://speakerdeck.com/marceloaltmann/percona-xtrabackup-whats-new-cloud-backups-and-migrations)
 - [Troubleshooting MySQL from a MySQL Developer Perspective - Percona Live Texas 2022](https://speakerdeck.com/marceloaltmann/troubleshooting-mysql-from-a-mysql-developer-perspective)
