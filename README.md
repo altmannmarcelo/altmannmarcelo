@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL: Binary Log Transaction Compression](https://blog.readyset.io/mysql-binary-log-transaction-compression/)
 - [MySQL 8.4  - What is new?](https://blog.readyset.io/mysql-8-4-what-is-new/)
 - [MySQL 5.7 EOL: The End of MySQL Query Cache](https://blog.readyset.io/mysql-5-7-eol-the-end-of-mysql-query-cache/)
 - [Automatic MySQL Query Cache with Readyset and ProxySQL](https://blog.readyset.io/automatic-mysql-query-cache-with-readyset-and-proxysql/)
@@ -16,7 +17,6 @@
 - [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
 - [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
 - [Percona XtraBackup Now Supports IAM Instance Profile](https://www.percona.com/blog/percona-xtrabackup-now-supports-iam-instance-profile/)
-- [Making Your MySQL Backup Process up to 17X Faster – Introducing Percona XtraBackup Smart Memory Estimation](https://www.percona.com/blog/making-your-mysql-backup-process-faster-introducing-percona-xtrabackup-smart-memory-estimation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
