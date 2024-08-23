@@ -13,10 +13,10 @@
 - [MySQL 5.7 EOL: The End of MySQL Query Cache](https://blog.readyset.io/mysql-5-7-eol-the-end-of-mysql-query-cache/)
 - [Automatic MySQL Query Cache with Readyset and ProxySQL](https://blog.readyset.io/automatic-mysql-query-cache-with-readyset-and-proxysql/)
 - [Integrating Readyset with ProxySQL for MySQL workloads](https://blog.readyset.io/integrating-readyset-with-proxysql-for-mysql-workloads/)
-- [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
-- [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b?source=rss-a4227e11d0ab------2)
-- [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
 - [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
+- [Percona XtraBackup Now Supports IAM Instance Profile](https://www.percona.com/blog/percona-xtrabackup-now-supports-iam-instance-profile/)
+- [Making Your MySQL Backup Process up to 17X Faster – Introducing Percona XtraBackup Smart Memory Estimation](https://www.percona.com/blog/making-your-mysql-backup-process-faster-introducing-percona-xtrabackup-smart-memory-estimation/)
+- [How To Get Your Backup to Half of Its Size – Introducing ZSTD Support in Percona XtraBackup](https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
