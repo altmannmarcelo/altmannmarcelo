@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating From RDS MySQL 5.7 to RDS MySQL 8.0 Using Blue/Green Deployment and Readyset](https://blog.readyset.io/migrating-from-rds-mysql-5-7-to-rds-mysql-8-0-using-blue-green-deployment-and-readyset-2/)
 - [Introducing Hash Join Algorithm](https://blog.readyset.io/introducing-hash-join-algorithm/)
 - [MySQL: Binary Log Transaction Compression](https://blog.readyset.io/mysql-binary-log-transaction-compression/)
 - [MySQL 8.4  - What is new?](https://blog.readyset.io/mysql-8-4-what-is-new/)
@@ -16,7 +17,6 @@
 - [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
 - [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b?source=rss-a4227e11d0ab------2)
 - [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
-- [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
