@@ -14,6 +14,9 @@
 - [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
 - [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b?source=rss-a4227e11d0ab------2)
 - [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
+- [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
+- [Percona XtraBackup Now Supports IAM Instance Profile](https://www.percona.com/blog/percona-xtrabackup-now-supports-iam-instance-profile/)
+- [Making Your MySQL Backup Process up to 17X Faster – Introducing Percona XtraBackup Smart Memory Estimation](https://www.percona.com/blog/making-your-mysql-backup-process-faster-introducing-percona-xtrabackup-smart-memory-estimation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
