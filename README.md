@@ -8,15 +8,15 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Straddled Joins in Readyset: From Hash Joins to Index Condition Pushdown](https://blog.readyset.io/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown/)
-- [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
-- [From User to Contributor: Fixing and Enhancing MySQL Tools](https://altmannmarcelo.medium.com/from-user-to-contributor-fixing-and-enhancing-mysql-tools-67cef460f7bf?source=rss-a4227e11d0ab------2)
-- [MySQL &amp; Heatwave Summit Recap](https://altmannmarcelo.medium.com/mysql-heatwave-summit-recap-7af4549439c9?source=rss-a4227e11d0ab------2)
-- [MySQL now reports 3 decimal places for milliseconds](https://altmannmarcelo.medium.com/mysql-now-reports-3-decimal-places-for-milliseconds-aa745c7681e8?source=rss-a4227e11d0ab------2)
-- [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
-- [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b?source=rss-a4227e11d0ab------2)
-- [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
 - [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
 - [Percona XtraBackup Now Supports IAM Instance Profile](https://www.percona.com/blog/percona-xtrabackup-now-supports-iam-instance-profile/)
+- [Making Your MySQL Backup Process up to 17X Faster – Introducing Percona XtraBackup Smart Memory Estimation](https://www.percona.com/blog/making-your-mysql-backup-process-faster-introducing-percona-xtrabackup-smart-memory-estimation/)
+- [How To Get Your Backup to Half of Its Size – Introducing ZSTD Support in Percona XtraBackup](https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/)
+- [Percona XtraBackup 8.0.29 and INSTANT ADD/DROP Columns](https://www.percona.com/blog/percona-xtrabackup-8-0-29-and-instant-add-drop-columns/)
+- [MySQL 8.0.29 and Percona XtraBackup Incompatibilities](https://www.percona.com/blog/mysql-8-0-29-and-percona-xtrabackup-incompatibilities/)
+- [Percona XtraBackup Changing to Strict by Default](https://www.percona.com/blog/percona-xtrabackup-changing-to-strict-by-default/)
+- [Introducing xbcloud: Exponential Backoff Feature in Percona XtraBackup](https://www.percona.com/blog/introducing-xbcloud-exponential-backoff-feature-in-percona-xtrabackup/)
+- [Replay the Execution of MySQL With RR &lpar;Record and Replay&rpar;](https://www.percona.com/blog/replay-the-execution-of-mysql-with-rr-record-and-replay/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
