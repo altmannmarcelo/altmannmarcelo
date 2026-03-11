@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Replication Internals: Decoding the MySQL Binary Log Part 3: FORMAT_DESCRIPTION_EVENT — The Self-Describing Event](https://blog.readyset.io/replication-internals-mysql-binary-log-part-3-format-description-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 2: File Header and Common Event Header](https://blog.readyset.io/mysql-binary-log-internals-part-2/)
 - [Replication Internals: Decoding the MySQL Binary Log - Part 1: Introduction and Data Types](https://blog.readyset.io/mysql-binary-log-internals-part-1/)
 - [MySQL 9.6: Foreign Key Cascade Operations Finally Hit the Binary Log](https://blog.readyset.io/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log/)
@@ -16,7 +17,6 @@
 - [MySQL now reports 3 decimal places for milliseconds](https://altmannmarcelo.medium.com/mysql-now-reports-3-decimal-places-for-milliseconds-aa745c7681e8?source=rss-a4227e11d0ab------2)
 - [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
 - [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b?source=rss-a4227e11d0ab------2)
-- [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
