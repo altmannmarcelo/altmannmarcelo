@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Replication Internals: Decoding the MySQL Binary Log Part 5: GTID_LOG_EVENT — The Global Transaction Identifier](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-5-gtid-log-event-the-global-transaction-id/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 4: PREVIOUS_GTIDS_LOG_EVENT — Tracking Transaction History](https://blog.readyset.io/replication-internals-mysql-binary-log-part-4-previous-gtids-log-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 3: FORMAT_DESCRIPTION_EVENT — The Self-Describing Event](https://blog.readyset.io/replication-internals-mysql-binary-log-part-3-format-description-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 2: File Header and Common Event Header](https://blog.readyset.io/mysql-binary-log-internals-part-2/)
@@ -16,7 +17,6 @@
 - [From User to Contributor: Fixing and Enhancing MySQL Tools](https://altmannmarcelo.medium.com/from-user-to-contributor-fixing-and-enhancing-mysql-tools-67cef460f7bf?source=rss-a4227e11d0ab------2)
 - [MySQL &amp; Heatwave Summit Recap](https://altmannmarcelo.medium.com/mysql-heatwave-summit-recap-7af4549439c9?source=rss-a4227e11d0ab------2)
 - [MySQL now reports 3 decimal places for milliseconds](https://altmannmarcelo.medium.com/mysql-now-reports-3-decimal-places-for-milliseconds-aa745c7681e8?source=rss-a4227e11d0ab------2)
-- [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
