@@ -16,7 +16,7 @@
 - [Replication Internals: Decoding the MySQL Binary Log Part 2: File Header and Common Event Header](https://blog.readyset.io/mysql-binary-log-internals-part-2/)
 - [Replication Internals: Decoding the MySQL Binary Log - Part 1: Introduction and Data Types](https://blog.readyset.io/mysql-binary-log-internals-part-1/)
 - [MySQL 9.6: Foreign Key Cascade Operations Finally Hit the Binary Log](https://blog.readyset.io/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log/)
-- [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
+- [Faster Streaming Backups – Introducing Percona XtraBackup FIFO Parallel Stream](https://www.percona.com/blog/faster-streaming-backups-introducing-percona-xtrabackup-fifo-parallel-stream/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
