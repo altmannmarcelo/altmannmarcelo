@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing MySQL GTID Support and Zero-Downtime Failover in Readyset](https://blog.readyset.io/introducing-mysql-gtid-support-and-zero-downtime-failover-in-readyset/)
 - [Replication Internals: Decoding the MySQL Binary Log - Part 8: Row Events — WRITE_ROWS, UPDATE_ROWS, and DELETE_ROWS](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-8-row-events-write_rows-update_rows-and-delete_rows/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 7: TABLE_MAP_EVENT – Table Metadata for Row-Based Replication](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-7-table_map_event-table-metadata-for-row-based-replication/)
 - [Query Hints: Let Your Application Decide What Gets Cached](https://blog.readyset.io/query-hints-let-your-application-decide-what-gets-cached/)
@@ -16,7 +17,6 @@
 - [Replication Internals: Decoding the MySQL Binary Log Part 3: FORMAT_DESCRIPTION_EVENT — The Self-Describing Event](https://blog.readyset.io/replication-internals-mysql-binary-log-part-3-format-description-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 2: File Header and Common Event Header](https://blog.readyset.io/mysql-binary-log-internals-part-2/)
 - [Replication Internals: Decoding the MySQL Binary Log - Part 1: Introduction and Data Types](https://blog.readyset.io/mysql-binary-log-internals-part-1/)
-- [MySQL 9.6: Foreign Key Cascade Operations Finally Hit the Binary Log](https://blog.readyset.io/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
