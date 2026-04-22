@@ -16,7 +16,7 @@
 - [Replication Internals: Decoding the MySQL Binary Log Part 4: PREVIOUS_GTIDS_LOG_EVENT — Tracking Transaction History](https://blog.readyset.io/replication-internals-mysql-binary-log-part-4-previous-gtids-log-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 3: FORMAT_DESCRIPTION_EVENT — The Self-Describing Event](https://blog.readyset.io/replication-internals-mysql-binary-log-part-3-format-description-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 2: File Header and Common Event Header](https://blog.readyset.io/mysql-binary-log-internals-part-2/)
-- [Replication Internals: Decoding the MySQL Binary Log - Part 1: Introduction and Data Types](https://blog.readyset.io/mysql-binary-log-internals-part-1/)
+- [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
