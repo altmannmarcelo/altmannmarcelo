@@ -14,9 +14,9 @@
 - [Query Hints: Let Your Application Decide What Gets Cached](https://blog.readyset.io/query-hints-let-your-application-decide-what-gets-cached/)
 - [Replication Internals: Decoding the MySQL Binary Log - Part 6: QUERY_EVENT — DDL Statements and Transaction Boundaries](https://blog.readyset.io/mysql-binary-log-query-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 5: GTID_LOG_EVENT — The Global Transaction Identifier](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-5-gtid-log-event-the-global-transaction-id/)
-- [Replication Internals: Decoding the MySQL Binary Log Part 4: PREVIOUS_GTIDS_LOG_EVENT — Tracking Transaction History](https://blog.readyset.io/replication-internals-mysql-binary-log-part-4-previous-gtids-log-event/)
 - [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
 - [From User to Contributor: Fixing and Enhancing MySQL Tools](https://altmannmarcelo.medium.com/from-user-to-contributor-fixing-and-enhancing-mysql-tools-67cef460f7bf?source=rss-a4227e11d0ab------2)
+- [MySQL &amp; Heatwave Summit Recap](https://altmannmarcelo.medium.com/mysql-heatwave-summit-recap-7af4549439c9?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
