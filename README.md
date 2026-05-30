@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON Duality Views in MySQL 9.7 — What you need to know](https://altmannmarcelo.medium.com/json-duality-views-in-mysql-9-7-what-you-need-to-know-382b4c6a4cd3?source=rss-a4227e11d0ab------2)
 - [Replication Internals: Decoding the MySQL Binary Log Part 11: GTID_TAGGED_LOG_EVENT — Tagged GTIDs and MySQL&#39;s New Serialization Framework](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-11-gtid_tagged_log_event-tagged-gtids-and-mysqls-new-serialization-framework/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 10: ROTATE_EVENT — Closing the File and Pointing at the Next One](https://blog.readyset.io/decoding-mysql-binary-log-part-10-rotate-event/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 9: XID_EVENT — Transaction Commit](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-9-xid_event-transaction-commit/)
@@ -16,7 +17,6 @@
 - [Query Hints: Let Your Application Decide What Gets Cached](https://blog.readyset.io/query-hints-let-your-application-decide-what-gets-cached/)
 - [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
 - [From User to Contributor: Fixing and Enhancing MySQL Tools](https://altmannmarcelo.medium.com/from-user-to-contributor-fixing-and-enhancing-mysql-tools-67cef460f7bf?source=rss-a4227e11d0ab------2)
-- [MySQL &amp; Heatwave Summit Recap](https://altmannmarcelo.medium.com/mysql-heatwave-summit-recap-7af4549439c9?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
