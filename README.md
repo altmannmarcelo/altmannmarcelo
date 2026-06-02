@@ -14,9 +14,9 @@
 - [Introducing MySQL GTID Support and Zero-Downtime Failover in Readyset](https://blog.readyset.io/introducing-mysql-gtid-support-and-zero-downtime-failover-in-readyset/)
 - [Replication Internals: Decoding the MySQL Binary Log - Part 8: Row Events — WRITE_ROWS, UPDATE_ROWS, and DELETE_ROWS](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-8-row-events-write_rows-update_rows-and-delete_rows/)
 - [Replication Internals: Decoding the MySQL Binary Log Part 7: TABLE_MAP_EVENT – Table Metadata for Row-Based Replication](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-7-table_map_event-table-metadata-for-row-based-replication/)
+- [Query Hints: Let Your Application Decide What Gets Cached](https://blog.readyset.io/query-hints-let-your-application-decide-what-gets-cached/)
 - [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
 - [From User to Contributor: Fixing and Enhancing MySQL Tools](https://altmannmarcelo.medium.com/from-user-to-contributor-fixing-and-enhancing-mysql-tools-67cef460f7bf?source=rss-a4227e11d0ab------2)
-- [MySQL &amp; Heatwave Summit Recap](https://altmannmarcelo.medium.com/mysql-heatwave-summit-recap-7af4549439c9?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
