@@ -8,8 +8,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v6
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://www.percona.com/blog/author/marcelo-altmann/feed,https://altmannmarcelo.medium.com/feed,https://siftrss.com/f/bz6omgdzxq'
           max_post_count: 10
