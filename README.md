@@ -7,16 +7,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI now speaks Readyset: announcing the MCP server](https://blog.readyset.io/your-ai-now-speaks-readyset-announcing-the-mcp-server/)
 - [JSON Duality Views in MySQL 9.7 — What you need to know](https://altmannmarcelo.medium.com/json-duality-views-in-mysql-9-7-what-you-need-to-know-382b4c6a4cd3?source=rss-a4227e11d0ab------2)
-- [Replication Internals: Decoding the MySQL Binary Log Part 11: GTID_TAGGED_LOG_EVENT — Tagged GTIDs and MySQL&#39;s New Serialization Framework](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-11-gtid_tagged_log_event-tagged-gtids-and-mysqls-new-serialization-framework/)
-- [Replication Internals: Decoding the MySQL Binary Log Part 10: ROTATE_EVENT — Closing the File and Pointing at the Next One](https://blog.readyset.io/decoding-mysql-binary-log-part-10-rotate-event/)
-- [Replication Internals: Decoding the MySQL Binary Log Part 9: XID_EVENT — Transaction Commit](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-9-xid_event-transaction-commit/)
-- [Introducing MySQL GTID Support and Zero-Downtime Failover in Readyset](https://blog.readyset.io/introducing-mysql-gtid-support-and-zero-downtime-failover-in-readyset/)
-- [Replication Internals: Decoding the MySQL Binary Log - Part 8: Row Events — WRITE_ROWS, UPDATE_ROWS, and DELETE_ROWS](https://blog.readyset.io/replication-internals-decoding-the-mysql-binary-log-part-8-row-events-write_rows-update_rows-and-delete_rows/)
 - [A Brief History of MySQL Replication](https://altmannmarcelo.medium.com/a-brief-history-of-mysql-replication-85f057922800?source=rss-a4227e11d0ab------2)
 - [From User to Contributor: Fixing and Enhancing MySQL Tools](https://altmannmarcelo.medium.com/from-user-to-contributor-fixing-and-enhancing-mysql-tools-67cef460f7bf?source=rss-a4227e11d0ab------2)
 - [MySQL &amp; Heatwave Summit Recap](https://altmannmarcelo.medium.com/mysql-heatwave-summit-recap-7af4549439c9?source=rss-a4227e11d0ab------2)
+- [MySQL now reports 3 decimal places for milliseconds](https://altmannmarcelo.medium.com/mysql-now-reports-3-decimal-places-for-milliseconds-aa745c7681e8?source=rss-a4227e11d0ab------2)
+- [MySQL GTID Tags — What you need to know](https://altmannmarcelo.medium.com/mysql-gtid-tags-what-you-need-to-know-87aca6b2e40b?source=rss-a4227e11d0ab------2)
+- [GDB Advanced Techniques: Expanding GDB Functionality with Custom Function Execution](https://altmannmarcelo.medium.com/gdb-advanced-techniques-expanding-gdb-functionality-with-custom-function-execution-ccf50894f61b?source=rss-a4227e11d0ab------2)
+- [MySQL Query Cache with ReadySet](https://altmannmarcelo.medium.com/mysql-query-cache-with-readyset-8d4f4aed24ff?source=rss-a4227e11d0ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Speaking Engagements
